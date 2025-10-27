@@ -1,0 +1,58 @@
+/* ===== Custom Dashboard Colors (Neutral Palette) ===== */
+
+/* Students */
+.bg-student {
+    background-color: #57564F !important; /* Dark Gray */
+    color: #fff !important;
+}
+
+/* Courses */
+.bg-course {
+    background-color: #7A7A73 !important; /* Medium Gray */
+    color: #fff !important;
+}
+
+/* Enrollments */
+.bg-enrollment {
+    background-color: #DDDAD0 !important; /* Light Gray */
+    color: #333 !important; /* Dark text for readability */
+}
+
+/* Revenue */
+.bg-revenue {
+    background-color: #F8F3CE !important; /* Cream */
+    color: #333 !important; /* Dark text */
+}
+
+.text-muted {
+    color: #6c757d;  /* Muted text color */
+    font-size: 0.85rem;
+}
+
+.number-muted {
+    color: #333 !important; /* Muted number color */
+}
+
+.small-text {
+    font-size: 0.8rem;
+    color: #6c757d; /* muted gray */
+}
+
+.btn-group-sm .btn {
+    min-width: 70px;  /* adjust mo kung gusto mo mas mahaba */
+    text-align: center;
+     border-width: 2px;          /* mas makapal */
+     border-radius: 6px !important; /* pare-pareho ang curve */
+    padding: 4px 12px !important;  /* pantay ang loob */
+    height: 32px;                  /* uniform height */
+    line-height: 20px;             /* align text properly */
+    display: inline-flex;          /* para pantay yung text */
+    align-items: center;           /* vertical centering */
+    justify-content: center;
+   
+}
+
+table td {
+    vertical-align: middle !important;
+    text-align: center;  
+}
