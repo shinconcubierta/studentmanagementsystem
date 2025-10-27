@@ -82,7 +82,7 @@ The system aims to provide a simple, organized, and secure way to handle student
         http://127.0.0.1:8000
 
 
-🖥️ Usage
+## 🖥️ Usage
 
 1. Login to the admin panel using your credentials.
 2. Add new students and courses via the dashboard.
