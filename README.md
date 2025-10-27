@@ -39,4 +39,44 @@ The system aims to provide a simple, organized, and secure way to handle student
 ### Steps
 1. Clone or extract the project files.
    ```bash
-   git clone https://github.com/shinconcubierta/studentmanagementsystem.git
+        git clone https://github.com/shinconcubierta/studentmanagementsystem.git
+
+2. Navigate to the project folder.
+
+        cd concubierta-students-tps
+
+
+3. Install PHP dependencies.
+
+        composer install
+
+
+4. Install JavaScript dependencies.
+
+        npm install
+
+
+5. Create a copy of the environment file.
+
+        cp .env.example .env
+
+
+6. Generate the application key.
+
+        php artisan key:generate
+
+
+7. Set up your database credentials inside the .env file.
+
+8. Run migrations to create tables.
+
+        php artisan migrate
+
+
+9. Start the development server.
+
+        php artisan serve
+
+
+10. Access the project in your browser at:
+        http://127.0.0.1:8000
