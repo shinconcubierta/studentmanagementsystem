@@ -39,7 +39,7 @@ The system aims to provide a simple, organized, and secure way to handle student
 ### Steps
 1. Clone or extract the project files.
    ```bash
-        git clone https://github.com/shinconcubierta/studentmanagementsystem.git
+   git clone https://github.com/shinconcubierta/studentmanagementsystem.git
 
 2. Navigate to the project folder.
 
@@ -80,3 +80,12 @@ The system aims to provide a simple, organized, and secure way to handle student
 
 10. Access the project in your browser at:
         http://127.0.0.1:8000
+
+
+🖥️ Usage
+
+1. Login to the admin panel using your credentials.
+2. Add new students and courses via the dashboard.
+3. Enroll students in their respective courses.
+4. Record payments or transactions for enrolled students.
+5. View and manage all data through the admin dashboard.
